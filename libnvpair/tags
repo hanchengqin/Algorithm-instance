@@ -1,0 +1,492 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARENDER	libnvpair.c	130;"	d	file:
+ASSERT	nvpair.c	31;"	d	file:
+B_FALSE	nvpair.h	/^typedef enum { B_FALSE, B_TRUE } boolean_t;$/;"	e	enum:__anon7
+B_TRUE	nvpair.h	/^typedef enum { B_FALSE, B_TRUE } boolean_t;$/;"	e	enum:__anon7
+CC	Makefile	/^CC = \/usr\/bin\/gcc$/;"	m
+CC	test/Makefile	/^CC = \/usr\/bin\/gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS =	$(DEBUG_FLAGS) \\$/;"	m
+CFLAGS	test/Makefile	/^CFLAGS =        $(DEBUG_FLAGS) \\$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS =	$(STD_DEFS) $(LF64_DEFS) $(PIC_DEFS)$/;"	m
+CPPFLAGS	test/Makefile	/^CPPFLAGS =      $(STD_DEFS) $(LF64_DEFS) $(PIC_DEFS)$/;"	m
+CUSTPRTOP	libnvpair.c	110;"	d	file:
+CUSTPRTOPARG	libnvpair.c	113;"	d	file:
+C_STDFLAGS	Makefile	/^C_STDFLAGS =	-std=c99$/;"	m
+C_STDFLAGS	test/Makefile	/^C_STDFLAGS =    -std=c99$/;"	m
+DATA_TYPE_BOOLEAN	nvpair.h	/^	DATA_TYPE_BOOLEAN,$/;"	e	enum:__anon8
+DATA_TYPE_BOOLEAN_ARRAY	nvpair.h	/^	DATA_TYPE_BOOLEAN_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_BOOLEAN_VALUE	nvpair.h	/^	DATA_TYPE_BOOLEAN_VALUE,$/;"	e	enum:__anon8
+DATA_TYPE_BYTE	nvpair.h	/^	DATA_TYPE_BYTE,$/;"	e	enum:__anon8
+DATA_TYPE_BYTE_ARRAY	nvpair.h	/^	DATA_TYPE_BYTE_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_DOUBLE	nvpair.h	/^	DATA_TYPE_DOUBLE$/;"	e	enum:__anon8
+DATA_TYPE_HRTIME	nvpair.h	/^	DATA_TYPE_HRTIME,$/;"	e	enum:__anon8
+DATA_TYPE_INT16	nvpair.h	/^	DATA_TYPE_INT16,$/;"	e	enum:__anon8
+DATA_TYPE_INT16_ARRAY	nvpair.h	/^	DATA_TYPE_INT16_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_INT32	nvpair.h	/^	DATA_TYPE_INT32,$/;"	e	enum:__anon8
+DATA_TYPE_INT32_ARRAY	nvpair.h	/^	DATA_TYPE_INT32_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_INT64	nvpair.h	/^	DATA_TYPE_INT64,$/;"	e	enum:__anon8
+DATA_TYPE_INT64_ARRAY	nvpair.h	/^	DATA_TYPE_INT64_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_INT8	nvpair.h	/^	DATA_TYPE_INT8,$/;"	e	enum:__anon8
+DATA_TYPE_INT8_ARRAY	nvpair.h	/^	DATA_TYPE_INT8_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_NVLIST	nvpair.h	/^	DATA_TYPE_NVLIST,$/;"	e	enum:__anon8
+DATA_TYPE_NVLIST_ARRAY	nvpair.h	/^	DATA_TYPE_NVLIST_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_STRING	nvpair.h	/^	DATA_TYPE_STRING,$/;"	e	enum:__anon8
+DATA_TYPE_STRING_ARRAY	nvpair.h	/^	DATA_TYPE_STRING_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_UINT16	nvpair.h	/^	DATA_TYPE_UINT16,$/;"	e	enum:__anon8
+DATA_TYPE_UINT16_ARRAY	nvpair.h	/^	DATA_TYPE_UINT16_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_UINT32	nvpair.h	/^	DATA_TYPE_UINT32,$/;"	e	enum:__anon8
+DATA_TYPE_UINT32_ARRAY	nvpair.h	/^	DATA_TYPE_UINT32_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_UINT64	nvpair.h	/^	DATA_TYPE_UINT64,$/;"	e	enum:__anon8
+DATA_TYPE_UINT64_ARRAY	nvpair.h	/^	DATA_TYPE_UINT64_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_UINT8	nvpair.h	/^	DATA_TYPE_UINT8,$/;"	e	enum:__anon8
+DATA_TYPE_UINT8_ARRAY	nvpair.h	/^	DATA_TYPE_UINT8_ARRAY,$/;"	e	enum:__anon8
+DATA_TYPE_UNKNOWN	nvpair.h	/^	DATA_TYPE_UNKNOWN = 0,$/;"	e	enum:__anon8
+DEBUG_FLAGS	Makefile	/^DEBUG_FLAGS =	-g$/;"	m
+DEBUG_FLAGS	test/Makefile	/^DEBUG_FLAGS =   -g$/;"	m
+DEFINEARROP	libnvpair.c	54;"	d	file:
+DEFINEOP	libnvpair.c	47;"	d	file:
+DFLTPRTOP	libnvpair.c	104;"	d	file:
+DFLTPRTOPARG	libnvpair.c	107;"	d	file:
+EMBEDDED_NVL	nvpair.c	138;"	d	file:
+EMBEDDED_NVL_ARRAY	nvpair.c	139;"	d	file:
+INC_FLAGS	test/Makefile	/^INC_FLAGS =	-I..$/;"	m
+LF64_DEFS	Makefile	/^LF64_DEFS =	-D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64$/;"	m
+LF64_DEFS	test/Makefile	/^LF64_DEFS =     -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64$/;"	m
+NOTE	libnvpair.c	32;"	d	file:
+NVLIST_ARRPRTFUNC	libnvpair.c	222;"	d	file:
+NVLIST_FMT_BTWN_ARRAY	libnvpair.h	/^	NVLIST_FMT_BTWN_ARRAY		\/* between array members; default " " *\/$/;"	e	enum:nvlist_prtctl_fmt
+NVLIST_FMT_MEMBER_NAME	libnvpair.h	/^	NVLIST_FMT_MEMBER_NAME,		\/* name fmt; default "%s = " *\/$/;"	e	enum:nvlist_prtctl_fmt
+NVLIST_FMT_MEMBER_POSTAMBLE	libnvpair.h	/^	NVLIST_FMT_MEMBER_POSTAMBLE,	\/* after nvlist member; default "\\n" *\/$/;"	e	enum:nvlist_prtctl_fmt
+NVLIST_INDENT_ABS	libnvpair.h	/^	NVLIST_INDENT_ABS,	\/* Absolute indentation *\/$/;"	e	enum:nvlist_indent_mode
+NVLIST_INDENT_TABBED	libnvpair.h	/^	NVLIST_INDENT_TABBED	\/* Indent with tabstops *\/$/;"	e	enum:nvlist_indent_mode
+NVLIST_PRINTCTL_AREPLACE	libnvpair.c	446;"	d	file:
+NVLIST_PRINTCTL_AVDECL	libnvpair.h	170;"	d
+NVLIST_PRINTCTL_AVDECL	libnvpair.h	188;"	d
+NVLIST_PRINTCTL_REPLACE	libnvpair.c	420;"	d	file:
+NVLIST_PRINTCTL_SVDECL	libnvpair.h	139;"	d
+NVLIST_PRINTCTL_SVDECL	libnvpair.h	160;"	d
+NVLIST_PRTFUNC	libnvpair.c	189;"	d	file:
+NVL_FLAG	nvpair.h	137;"	d
+NVL_SIZE	nvpair.h	136;"	d
+NVL_VERSION	nvpair.h	135;"	d
+NVP	libnvpair.c	770;"	d	file:
+NVPA	libnvpair.c	778;"	d	file:
+NVPAIR2I_NVP	nvpair.c	142;"	d	file:
+NVP_NAME	nvpair.h	129;"	d
+NVP_NELEM	nvpair.h	131;"	d
+NVP_SIZE	nvpair.h	128;"	d
+NVP_SIZE_CALC	nvpair.c	130;"	d	file:
+NVP_TYPE	nvpair.h	130;"	d
+NVP_VALOFF	nvpair.c	141;"	d	file:
+NVP_VALUE	nvpair.h	132;"	d
+NVS_OP_DECODE	nvpair.c	2011;"	d	file:
+NVS_OP_ENCODE	nvpair.c	2010;"	d	file:
+NVS_OP_GETSIZE	nvpair.c	2012;"	d	file:
+NV_ALIGN	nvpair.h	125;"	d
+NV_ALIGN4	nvpair.h	126;"	d
+NV_ENCODE_NATIVE	nvpair.h	114;"	d
+NV_ENCODE_XDR	nvpair.h	115;"	d
+NV_FLAG_NOENTOK	nvpair.h	122;"	d
+NV_STAT_EMBEDDED	nvpair.c	137;"	d	file:
+NV_UNIQUE_NAME	nvpair.h	118;"	d
+NV_UNIQUE_NAME_TYPE	nvpair.h	119;"	d
+NV_VERSION	nvpair.h	111;"	d
+OBJS	Makefile	/^OBJS =	$(SRCS:.c=.o)$/;"	m
+OPT_FLAGS	Makefile	/^OPT_FLAGS =	-O2$/;"	m
+OPT_FLAGS	test/Makefile	/^OPT_FLAGS =     -O2$/;"	m
+PIC_DEFS	Makefile	/^PIC_DEFS =	-DPIC$/;"	m
+PIC_DEFS	test/Makefile	/^PIC_DEFS =      -DPIC$/;"	m
+PIC_FLAGS	Makefile	/^PIC_FLAGS =	-fPIC$/;"	m
+PIC_FLAGS	test/Makefile	/^PIC_FLAGS =     -fPIC$/;"	m
+RENDER	libnvpair.c	116;"	d	file:
+SRCS	Makefile	/^SRCS =	nvpair.c \\$/;"	m
+STD_DEFS	Makefile	/^STD_DEFS =	-D_GNU_SOURCE -D__EXTENSION__$/;"	m
+STD_DEFS	test/Makefile	/^STD_DEFS =      -D_GNU_SOURCE -D__EXTENSION__$/;"	m
+TEXT_DOMAIN	nvpair.h	40;"	d
+WARN_FLAGS	Makefile	/^WARN_FLAGS =	-Wall$/;"	m
+WARN_FLAGS	test/Makefile	/^WARN_FLAGS =	-Wall$/;"	m
+_ALIGNMENT_REQUIRED	isa_defs.h	258;"	d
+_ALIGNMENT_REQUIRED	isa_defs.h	323;"	d
+_ALIGNMENT_REQUIRED	isa_defs.h	404;"	d
+_BIG_ENDIAN	isa_defs.h	389;"	d
+_BIT_FIELDS_HTOL	isa_defs.h	392;"	d
+_BIT_FIELDS_LTOH	isa_defs.h	241;"	d
+_BIT_FIELDS_LTOH	isa_defs.h	306;"	d
+_BOOL_ALIGNMENT	isa_defs.h	244;"	d
+_BOOL_ALIGNMENT	isa_defs.h	309;"	d
+_BOOL_ALIGNMENT	isa_defs.h	395;"	d
+_CHAR_ALIGNMENT	isa_defs.h	245;"	d
+_CHAR_ALIGNMENT	isa_defs.h	310;"	d
+_CHAR_ALIGNMENT	isa_defs.h	396;"	d
+_CHAR_IS_SIGNED	isa_defs.h	243;"	d
+_CHAR_IS_SIGNED	isa_defs.h	308;"	d
+_CHAR_IS_SIGNED	isa_defs.h	394;"	d
+_DMA_USES_PHYSADDR	isa_defs.h	276;"	d
+_DMA_USES_PHYSADDR	isa_defs.h	335;"	d
+_DMA_USES_VIRTADDR	isa_defs.h	410;"	d
+_DONT_USE_1275_GENERIC_NAMES	isa_defs.h	282;"	d
+_DONT_USE_1275_GENERIC_NAMES	isa_defs.h	340;"	d
+_DOUBLE_ALIGNMENT	isa_defs.h	252;"	d
+_DOUBLE_ALIGNMENT	isa_defs.h	317;"	d
+_DOUBLE_ALIGNMENT	isa_defs.h	402;"	d
+_DOUBLE_COMPLEX_ALIGNMENT	isa_defs.h	253;"	d
+_DOUBLE_COMPLEX_ALIGNMENT	isa_defs.h	318;"	d
+_DOUBLE_COMPLEX_ALIGNMENT	isa_defs.h	403;"	d
+_FIRMWARE_NEEDS_FDISK	isa_defs.h	277;"	d
+_FIRMWARE_NEEDS_FDISK	isa_defs.h	336;"	d
+_FLOAT_ALIGNMENT	isa_defs.h	248;"	d
+_FLOAT_ALIGNMENT	isa_defs.h	313;"	d
+_FLOAT_ALIGNMENT	isa_defs.h	399;"	d
+_FLOAT_COMPLEX_ALIGNMENT	isa_defs.h	249;"	d
+_FLOAT_COMPLEX_ALIGNMENT	isa_defs.h	314;"	d
+_FLOAT_COMPLEX_ALIGNMENT	isa_defs.h	400;"	d
+_HAVE_CPUID_INSN	isa_defs.h	283;"	d
+_HAVE_CPUID_INSN	isa_defs.h	341;"	d
+_HAVE_TEM_FIRMWARE	isa_defs.h	412;"	d
+_I32LPx	isa_defs.h	272;"	d
+_I32LPx	isa_defs.h	332;"	d
+_I32LPx	isa_defs.h	437;"	d
+_I32LPx	isa_defs.h	464;"	d
+_IEEE_754	isa_defs.h	242;"	d
+_IEEE_754	isa_defs.h	307;"	d
+_IEEE_754	isa_defs.h	393;"	d
+_ILP32	isa_defs.h	330;"	d
+_ILP32	isa_defs.h	435;"	d
+_INT_ALIGNMENT	isa_defs.h	247;"	d
+_INT_ALIGNMENT	isa_defs.h	312;"	d
+_INT_ALIGNMENT	isa_defs.h	398;"	d
+_LIBNVPAIR_H	libnvpair.h	26;"	d
+_LITTLE_ENDIAN	isa_defs.h	238;"	d
+_LITTLE_ENDIAN	isa_defs.h	303;"	d
+_LONG_ALIGNMENT	isa_defs.h	250;"	d
+_LONG_ALIGNMENT	isa_defs.h	315;"	d
+_LONG_ALIGNMENT	isa_defs.h	424;"	d
+_LONG_ALIGNMENT	isa_defs.h	449;"	d
+_LONG_DOUBLE_ALIGNMENT	isa_defs.h	254;"	d
+_LONG_DOUBLE_ALIGNMENT	isa_defs.h	319;"	d
+_LONG_DOUBLE_ALIGNMENT	isa_defs.h	425;"	d
+_LONG_DOUBLE_ALIGNMENT	isa_defs.h	450;"	d
+_LONG_DOUBLE_COMPLEX_ALIGNMENT	isa_defs.h	255;"	d
+_LONG_DOUBLE_COMPLEX_ALIGNMENT	isa_defs.h	320;"	d
+_LONG_DOUBLE_COMPLEX_ALIGNMENT	isa_defs.h	426;"	d
+_LONG_DOUBLE_COMPLEX_ALIGNMENT	isa_defs.h	451;"	d
+_LONG_LONG_ALIGNMENT	isa_defs.h	251;"	d
+_LONG_LONG_ALIGNMENT	isa_defs.h	316;"	d
+_LONG_LONG_ALIGNMENT	isa_defs.h	401;"	d
+_LONG_LONG_ALIGNMENT_32	isa_defs.h	263;"	d
+_LONG_LONG_ALIGNMENT_32	isa_defs.h	325;"	d
+_LONG_LONG_ALIGNMENT_32	isa_defs.h	430;"	d
+_LONG_LONG_ALIGNMENT_32	isa_defs.h	455;"	d
+_LONG_LONG_HTOL	isa_defs.h	391;"	d
+_LONG_LONG_LTOH	isa_defs.h	240;"	d
+_LONG_LONG_LTOH	isa_defs.h	305;"	d
+_LP64	isa_defs.h	269;"	d
+_LP64	isa_defs.h	461;"	d
+_MAX_ALIGNMENT	isa_defs.h	257;"	d
+_MAX_ALIGNMENT	isa_defs.h	322;"	d
+_MAX_ALIGNMENT	isa_defs.h	428;"	d
+_MAX_ALIGNMENT	isa_defs.h	453;"	d
+_MULTI_DATAMODEL	isa_defs.h	274;"	d
+_MULTI_DATAMODEL	isa_defs.h	466;"	d
+_NO_FDISK_PRESENT	isa_defs.h	411;"	d
+_NVPAIR_IMPL_H	nvpair_impl.h	28;"	d
+_OBP	isa_defs.h	413;"	d
+_POINTER_ALIGNMENT	isa_defs.h	256;"	d
+_POINTER_ALIGNMENT	isa_defs.h	321;"	d
+_POINTER_ALIGNMENT	isa_defs.h	427;"	d
+_POINTER_ALIGNMENT	isa_defs.h	452;"	d
+_PSM_MODULES	isa_defs.h	279;"	d
+_PSM_MODULES	isa_defs.h	337;"	d
+_RTC_CONFIG	isa_defs.h	280;"	d
+_RTC_CONFIG	isa_defs.h	338;"	d
+_SHORT_ALIGNMENT	isa_defs.h	246;"	d
+_SHORT_ALIGNMENT	isa_defs.h	311;"	d
+_SHORT_ALIGNMENT	isa_defs.h	397;"	d
+_SOFT_HOSTID	isa_defs.h	281;"	d
+_SOFT_HOSTID	isa_defs.h	339;"	d
+_STACK_GROWS_DOWNWARD	isa_defs.h	239;"	d
+_STACK_GROWS_DOWNWARD	isa_defs.h	304;"	d
+_STACK_GROWS_DOWNWARD	isa_defs.h	390;"	d
+_SUNOS_VTOC_16	isa_defs.h	275;"	d
+_SUNOS_VTOC_16	isa_defs.h	334;"	d
+_SUNOS_VTOC_8	isa_defs.h	409;"	d
+_SYS_ISA_DEFS_H	isa_defs.h	29;"	d
+_SYS_NVPAIR_H	nvpair.h	27;"	d
+__amd64	isa_defs.h	228;"	d
+__i386	isa_defs.h	293;"	d
+__i386_COMPAT	isa_defs.h	278;"	d
+__sparc	isa_defs.h	365;"	d
+__sparcv8	isa_defs.h	382;"	d
+__x86	isa_defs.h	232;"	d
+__x86	isa_defs.h	297;"	d
+_nvi	nvpair_impl.h	/^		} _nvi;$/;"	m	union:i_nvp::__anon1	typeref:struct:i_nvp::__anon1::__anon2
+_nvi_align	nvpair_impl.h	/^		uint64_t	_nvi_align;	\/* ensure alignment *\/$/;"	m	union:i_nvp::__anon1
+_nvi_next	nvpair_impl.h	/^			i_nvp_t	*_nvi_next;	\/* pointer to next nvpair *\/$/;"	m	struct:i_nvp::__anon1::__anon2
+_nvi_prev	nvpair_impl.h	/^			i_nvp_t	*_nvi_prev;	\/* pointer to prev nvpair *\/$/;"	m	struct:i_nvp::__anon1::__anon2
+_nvi_un	nvpair_impl.h	/^	} _nvi_un;$/;"	m	struct:i_nvp	typeref:union:i_nvp::__anon1
+boolean_t	nvpair.h	/^typedef enum { B_FALSE, B_TRUE } boolean_t;$/;"	t	typeref:enum:__anon7
+data_type_t	nvpair.h	/^} data_type_t;$/;"	t	typeref:enum:__anon8
+defprtops	libnvpair.c	/^static const struct nvlist_printops defprtops = {$/;"	v	typeref:struct:nvlist_printops	file:
+dump_nvlist	libnvpair.c	/^dump_nvlist(nvlist_t *list, int indent)$/;"	f
+hrtime_t	nvpair.h	/^typedef longlong_t	hrtime_t;$/;"	t
+i_get_value_size	nvpair.c	/^i_get_value_size(data_type_t type, const void *data, uint_t nelem)$/;"	f	file:
+i_nvp	nvpair_impl.h	/^struct i_nvp {$/;"	s
+i_nvp_t	nvpair_impl.h	/^typedef struct i_nvp i_nvp_t;$/;"	t	typeref:struct:i_nvp
+i_validate_nvpair	nvpair.c	/^i_validate_nvpair(nvpair_t *nvp)$/;"	f	file:
+i_validate_nvpair_name	nvpair.c	/^i_validate_nvpair_name(nvpair_t *nvp)$/;"	f	file:
+i_validate_nvpair_value	nvpair.c	/^i_validate_nvpair_value(data_type_t type, uint_t nelem, const void *data)$/;"	f	file:
+i_validate_type_nelem	nvpair.c	/^i_validate_type_nelem(data_type_t type, uint_t nelem)$/;"	f	file:
+indent	libnvpair.c	/^indent(nvlist_prtctl_t pctl, int onemore)$/;"	f	file:
+longlong_t	nvpair.h	/^typedef long long	longlong_t;$/;"	t
+main	test/hello_nv.c	/^main() {$/;"	f
+n_base	nvpair.c	/^	caddr_t n_base;$/;"	m	struct:__anon6	file:
+n_curr	nvpair.c	/^	caddr_t n_curr;$/;"	m	struct:__anon6	file:
+n_end	nvpair.c	/^	caddr_t n_end;$/;"	m	struct:__anon6	file:
+n_flag	nvpair.c	/^	uint_t  n_flag;$/;"	m	struct:__anon6	file:
+native_cp	nvpair.c	/^native_cp(nvstream_t *nvs, void *buf, size_t size)$/;"	f	file:
+nv_alloc	nvpair.h	/^typedef struct nv_alloc {$/;"	s
+nv_alloc_fini	nvpair.c	/^nv_alloc_fini(nv_alloc_t *nva)$/;"	f
+nv_alloc_init	nvpair.c	/^nv_alloc_init(nv_alloc_t *nva, const nv_alloc_ops_t *nvo, \/* args *\/ ...)$/;"	f
+nv_alloc_nosleep	nvpair_alloc_system.c	/^nv_alloc_t *nv_alloc_nosleep = &nv_alloc_nosleep_def;$/;"	v
+nv_alloc_nosleep_def	nvpair_alloc_system.c	/^nv_alloc_t nv_alloc_nosleep_def = {$/;"	v
+nv_alloc_ops	nvpair.h	/^struct nv_alloc_ops {$/;"	s
+nv_alloc_ops_t	nvpair.h	/^typedef struct nv_alloc_ops nv_alloc_ops_t;$/;"	t	typeref:struct:nv_alloc_ops
+nv_alloc_reset	nvpair.c	/^nv_alloc_reset(nv_alloc_t *nva)$/;"	f
+nv_alloc_sys	nvpair_alloc_system.c	/^nv_alloc_sys(nv_alloc_t *nva, size_t size)$/;"	f	file:
+nv_alloc_t	nvpair.h	/^} nv_alloc_t;$/;"	t	typeref:struct:nv_alloc
+nv_ao_alloc	nvpair.h	/^	void *(*nv_ao_alloc)(nv_alloc_t *, size_t);$/;"	m	struct:nv_alloc_ops
+nv_ao_fini	nvpair.h	/^	void (*nv_ao_fini)(nv_alloc_t *);$/;"	m	struct:nv_alloc_ops
+nv_ao_free	nvpair.h	/^	void (*nv_ao_free)(nv_alloc_t *, void *, size_t);$/;"	m	struct:nv_alloc_ops
+nv_ao_init	nvpair.h	/^	int (*nv_ao_init)(nv_alloc_t *, va_list);$/;"	m	struct:nv_alloc_ops
+nv_ao_reset	nvpair.h	/^	void (*nv_ao_reset)(nv_alloc_t *);$/;"	m	struct:nv_alloc_ops
+nv_free_sys	nvpair_alloc_system.c	/^nv_free_sys(nv_alloc_t *nva, void *buf, size_t size)$/;"	f	file:
+nv_mem_free	nvpair.c	/^nv_mem_free(nvpriv_t *nvp, void *buf, size_t size)$/;"	f	file:
+nv_mem_zalloc	nvpair.c	/^nv_mem_zalloc(nvpriv_t *nvp, size_t size)$/;"	f	file:
+nv_priv_alloc	nvpair.c	/^nv_priv_alloc(nv_alloc_t *nva)$/;"	f	file:
+nv_priv_alloc_embedded	nvpair.c	/^nv_priv_alloc_embedded(nvpriv_t *priv)$/;"	f	file:
+nv_priv_init	nvpair.c	/^nv_priv_init(nvpriv_t *priv, nv_alloc_t *nva, uint32_t stat)$/;"	f	file:
+nva_arg	nvpair.h	/^	void *nva_arg;$/;"	m	struct:nv_alloc
+nva_ops	nvpair.h	/^	const nv_alloc_ops_t *nva_ops;$/;"	m	struct:nv_alloc
+nvaprint_nvlist_array	libnvpair.c	/^nvaprint_nvlist_array(nvlist_prtctl_t pctl, void *private,$/;"	f	file:
+nvh_encoding	nvpair.c	/^	char	nvh_encoding;	\/* nvs encoding method *\/$/;"	m	struct:__anon5	file:
+nvh_endian	nvpair.c	/^	char	nvh_endian;	\/* nvs endian *\/$/;"	m	struct:__anon5	file:
+nvh_reserved1	nvpair.c	/^	char	nvh_reserved1;	\/* reserved for future use *\/$/;"	m	struct:__anon5	file:
+nvh_reserved2	nvpair.c	/^	char	nvh_reserved2;	\/* reserved for future use *\/$/;"	m	struct:__anon5	file:
+nvi_next	nvpair_impl.h	56;"	d
+nvi_nvp	nvpair_impl.h	/^	nvpair_t nvi_nvp;			\/* nvpair *\/$/;"	m	struct:i_nvp
+nvi_prev	nvpair_impl.h	57;"	d
+nvl_flag	nvpair.h	/^	uint32_t	nvl_flag;$/;"	m	struct:nvlist
+nvl_nvflag	nvpair.h	/^	uint32_t	nvl_nvflag;	\/* persistent flags *\/$/;"	m	struct:nvlist
+nvl_pad	nvpair.h	/^	int32_t		nvl_pad;	\/* currently not used, for alignment *\/$/;"	m	struct:nvlist
+nvl_priv	nvpair.h	/^	uint64_t	nvl_priv;	\/* ptr to private data if not packed *\/$/;"	m	struct:nvlist
+nvl_version	nvpair.h	/^	int32_t		nvl_version;$/;"	m	struct:nvlist
+nvlist	nvpair.h	/^typedef struct nvlist {$/;"	s
+nvlist_add_boolean	nvpair.c	/^nvlist_add_boolean(nvlist_t *nvl, const char *name)$/;"	f
+nvlist_add_boolean_array	nvpair.c	/^nvlist_add_boolean_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_add_boolean_value	nvpair.c	/^nvlist_add_boolean_value(nvlist_t *nvl, const char *name, boolean_t val)$/;"	f
+nvlist_add_byte	nvpair.c	/^nvlist_add_byte(nvlist_t *nvl, const char *name, uchar_t val)$/;"	f
+nvlist_add_byte_array	nvpair.c	/^nvlist_add_byte_array(nvlist_t *nvl, const char *name, uchar_t *a, uint_t n)$/;"	f
+nvlist_add_common	nvpair.c	/^nvlist_add_common(nvlist_t *nvl, const char *name,$/;"	f	file:
+nvlist_add_double	nvpair.c	/^nvlist_add_double(nvlist_t *nvl, const char *name, double val)$/;"	f
+nvlist_add_hrtime	nvpair.c	/^nvlist_add_hrtime(nvlist_t *nvl, const char *name, hrtime_t val)$/;"	f
+nvlist_add_int16	nvpair.c	/^nvlist_add_int16(nvlist_t *nvl, const char *name, int16_t val)$/;"	f
+nvlist_add_int16_array	nvpair.c	/^nvlist_add_int16_array(nvlist_t *nvl, const char *name, int16_t *a, uint_t n)$/;"	f
+nvlist_add_int32	nvpair.c	/^nvlist_add_int32(nvlist_t *nvl, const char *name, int32_t val)$/;"	f
+nvlist_add_int32_array	nvpair.c	/^nvlist_add_int32_array(nvlist_t *nvl, const char *name, int32_t *a, uint_t n)$/;"	f
+nvlist_add_int64	nvpair.c	/^nvlist_add_int64(nvlist_t *nvl, const char *name, int64_t val)$/;"	f
+nvlist_add_int64_array	nvpair.c	/^nvlist_add_int64_array(nvlist_t *nvl, const char *name, int64_t *a, uint_t n)$/;"	f
+nvlist_add_int8	nvpair.c	/^nvlist_add_int8(nvlist_t *nvl, const char *name, int8_t val)$/;"	f
+nvlist_add_int8_array	nvpair.c	/^nvlist_add_int8_array(nvlist_t *nvl, const char *name, int8_t *a, uint_t n)$/;"	f
+nvlist_add_nvlist	nvpair.c	/^nvlist_add_nvlist(nvlist_t *nvl, const char *name, nvlist_t *val)$/;"	f
+nvlist_add_nvlist_array	nvpair.c	/^nvlist_add_nvlist_array(nvlist_t *nvl, const char *name, nvlist_t **a, uint_t n)$/;"	f
+nvlist_add_nvpair	nvpair.c	/^nvlist_add_nvpair(nvlist_t *nvl, nvpair_t *nvp)$/;"	f
+nvlist_add_string	nvpair.c	/^nvlist_add_string(nvlist_t *nvl, const char *name, const char *val)$/;"	f
+nvlist_add_string_array	nvpair.c	/^nvlist_add_string_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_add_uint16	nvpair.c	/^nvlist_add_uint16(nvlist_t *nvl, const char *name, uint16_t val)$/;"	f
+nvlist_add_uint16_array	nvpair.c	/^nvlist_add_uint16_array(nvlist_t *nvl, const char *name, uint16_t *a, uint_t n)$/;"	f
+nvlist_add_uint32	nvpair.c	/^nvlist_add_uint32(nvlist_t *nvl, const char *name, uint32_t val)$/;"	f
+nvlist_add_uint32_array	nvpair.c	/^nvlist_add_uint32_array(nvlist_t *nvl, const char *name, uint32_t *a, uint_t n)$/;"	f
+nvlist_add_uint64	nvpair.c	/^nvlist_add_uint64(nvlist_t *nvl, const char *name, uint64_t val)$/;"	f
+nvlist_add_uint64_array	nvpair.c	/^nvlist_add_uint64_array(nvlist_t *nvl, const char *name, uint64_t *a, uint_t n)$/;"	f
+nvlist_add_uint8	nvpair.c	/^nvlist_add_uint8(nvlist_t *nvl, const char *name, uint8_t val)$/;"	f
+nvlist_add_uint8_array	nvpair.c	/^nvlist_add_uint8_array(nvlist_t *nvl, const char *name, uint8_t *a, uint_t n)$/;"	f
+nvlist_alloc	nvpair.c	/^nvlist_alloc(nvlist_t **nvlp, uint_t nvflag, int kmflag)$/;"	f
+nvlist_common	nvpair.c	/^nvlist_common(nvlist_t *nvl, char *buf, size_t *buflen, int encoding,$/;"	f	file:
+nvlist_contains_nvp	nvpair.c	/^nvlist_contains_nvp(nvlist_t *nvl, nvpair_t *nvp)$/;"	f	file:
+nvlist_copy_embedded	nvpair.c	/^nvlist_copy_embedded(nvlist_t *nvl, nvlist_t *onvl, nvlist_t *emb_nvl)$/;"	f	file:
+nvlist_copy_pairs	nvpair.c	/^nvlist_copy_pairs(nvlist_t *snvl, nvlist_t *dnvl)$/;"	f	file:
+nvlist_dup	nvpair.c	/^nvlist_dup(nvlist_t *nvl, nvlist_t **nvlp, int kmflag)$/;"	f
+nvlist_empty	nvpair.c	/^nvlist_empty(nvlist_t *nvl)$/;"	f
+nvlist_exists	nvpair.c	/^nvlist_exists(nvlist_t *nvl, const char *name)$/;"	f
+nvlist_free	nvpair.c	/^nvlist_free(nvlist_t *nvl)$/;"	f
+nvlist_indent_mode	libnvpair.h	/^enum nvlist_indent_mode {$/;"	g
+nvlist_init	nvpair.c	/^nvlist_init(nvlist_t *nvl, uint32_t nvflag, nvpriv_t *priv)$/;"	f	file:
+nvlist_lookup_boolean	nvpair.c	/^nvlist_lookup_boolean(nvlist_t *nvl, const char *name)$/;"	f
+nvlist_lookup_boolean_array	nvpair.c	/^nvlist_lookup_boolean_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_boolean_value	nvpair.c	/^nvlist_lookup_boolean_value(nvlist_t *nvl, const char *name, boolean_t *val)$/;"	f
+nvlist_lookup_byte	nvpair.c	/^nvlist_lookup_byte(nvlist_t *nvl, const char *name, uchar_t *val)$/;"	f
+nvlist_lookup_byte_array	nvpair.c	/^nvlist_lookup_byte_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_common	nvpair.c	/^nvlist_lookup_common(nvlist_t *nvl, const char *name, data_type_t type,$/;"	f	file:
+nvlist_lookup_double	nvpair.c	/^nvlist_lookup_double(nvlist_t *nvl, const char *name, double *val)$/;"	f
+nvlist_lookup_hrtime	nvpair.c	/^nvlist_lookup_hrtime(nvlist_t *nvl, const char *name, hrtime_t *val)$/;"	f
+nvlist_lookup_int16	nvpair.c	/^nvlist_lookup_int16(nvlist_t *nvl, const char *name, int16_t *val)$/;"	f
+nvlist_lookup_int16_array	nvpair.c	/^nvlist_lookup_int16_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_int32	nvpair.c	/^nvlist_lookup_int32(nvlist_t *nvl, const char *name, int32_t *val)$/;"	f
+nvlist_lookup_int32_array	nvpair.c	/^nvlist_lookup_int32_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_int64	nvpair.c	/^nvlist_lookup_int64(nvlist_t *nvl, const char *name, int64_t *val)$/;"	f
+nvlist_lookup_int64_array	nvpair.c	/^nvlist_lookup_int64_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_int8	nvpair.c	/^nvlist_lookup_int8(nvlist_t *nvl, const char *name, int8_t *val)$/;"	f
+nvlist_lookup_int8_array	nvpair.c	/^nvlist_lookup_int8_array(nvlist_t *nvl, const char *name, int8_t **a, uint_t *n)$/;"	f
+nvlist_lookup_nv_alloc	nvpair.c	/^nvlist_lookup_nv_alloc(nvlist_t *nvl)$/;"	f
+nvlist_lookup_nvlist	nvpair.c	/^nvlist_lookup_nvlist(nvlist_t *nvl, const char *name, nvlist_t **val)$/;"	f
+nvlist_lookup_nvlist_array	nvpair.c	/^nvlist_lookup_nvlist_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_nvpair	nvpair.c	/^nvlist_lookup_nvpair(nvlist_t *nvl, const char *name, nvpair_t **ret)$/;"	f
+nvlist_lookup_nvpair_ei_sep	nvpair.c	/^nvlist_lookup_nvpair_ei_sep(nvlist_t *nvl, const char *name, const char sep,$/;"	f	file:
+nvlist_lookup_nvpair_embedded_index	nvpair.c	/^int nvlist_lookup_nvpair_embedded_index(nvlist_t *nvl,$/;"	f
+nvlist_lookup_pairs	nvpair.c	/^nvlist_lookup_pairs(nvlist_t *nvl, int flag, ...)$/;"	f
+nvlist_lookup_string	nvpair.c	/^nvlist_lookup_string(nvlist_t *nvl, const char *name, char **val)$/;"	f
+nvlist_lookup_string_array	nvpair.c	/^nvlist_lookup_string_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_uint16	nvpair.c	/^nvlist_lookup_uint16(nvlist_t *nvl, const char *name, uint16_t *val)$/;"	f
+nvlist_lookup_uint16_array	nvpair.c	/^nvlist_lookup_uint16_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_uint32	nvpair.c	/^nvlist_lookup_uint32(nvlist_t *nvl, const char *name, uint32_t *val)$/;"	f
+nvlist_lookup_uint32_array	nvpair.c	/^nvlist_lookup_uint32_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_uint64	nvpair.c	/^nvlist_lookup_uint64(nvlist_t *nvl, const char *name, uint64_t *val)$/;"	f
+nvlist_lookup_uint64_array	nvpair.c	/^nvlist_lookup_uint64_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_lookup_uint8	nvpair.c	/^nvlist_lookup_uint8(nvlist_t *nvl, const char *name, uint8_t *val)$/;"	f
+nvlist_lookup_uint8_array	nvpair.c	/^nvlist_lookup_uint8_array(nvlist_t *nvl, const char *name,$/;"	f
+nvlist_merge	nvpair.c	/^nvlist_merge(nvlist_t *dst, nvlist_t *nvl, int flag)$/;"	f
+nvlist_next_nvpair	nvpair.c	/^nvlist_next_nvpair(nvlist_t *nvl, nvpair_t *nvp)$/;"	f
+nvlist_nvflag	nvpair.c	/^nvlist_nvflag(nvlist_t *nvl)$/;"	f
+nvlist_pack	nvpair.c	/^nvlist_pack(nvlist_t *nvl, char **bufp, size_t *buflen, int encoding,$/;"	f
+nvlist_prev_nvpair	nvpair.c	/^nvlist_prev_nvpair(nvlist_t *nvl, nvpair_t *nvp)$/;"	f
+nvlist_print	libnvpair.c	/^nvlist_print(FILE *fp, nvlist_t *nvl)$/;"	f
+nvlist_print_with_indent	libnvpair.c	/^nvlist_print_with_indent(nvlist_t *nvl, nvlist_prtctl_t pctl)$/;"	f	file:
+nvlist_printops	libnvpair.c	/^struct nvlist_printops {$/;"	s	file:
+nvlist_prt	libnvpair.c	/^nvlist_prt(nvlist_t *nvl, nvlist_prtctl_t pctl)$/;"	f
+nvlist_prtctl	libnvpair.c	/^struct nvlist_prtctl {$/;"	s	file:
+nvlist_prtctl_alloc	libnvpair.c	/^nvlist_prtctl_alloc(void)$/;"	f
+nvlist_prtctl_dofmt	libnvpair.c	/^nvlist_prtctl_dofmt(nvlist_prtctl_t pctl, enum nvlist_prtctl_fmt which, ...)$/;"	f
+nvlist_prtctl_doindent	libnvpair.c	/^nvlist_prtctl_doindent(nvlist_prtctl_t pctl, int onemore)$/;"	f
+nvlist_prtctl_fmt	libnvpair.h	/^enum nvlist_prtctl_fmt {$/;"	g
+nvlist_prtctl_free	libnvpair.c	/^nvlist_prtctl_free(nvlist_prtctl_t pctl)$/;"	f
+nvlist_prtctl_getdest	libnvpair.c	/^nvlist_prtctl_getdest(nvlist_prtctl_t pctl)$/;"	f
+nvlist_prtctl_setdest	libnvpair.c	/^nvlist_prtctl_setdest(nvlist_prtctl_t pctl, FILE *fp)$/;"	f
+nvlist_prtctl_setfmt	libnvpair.c	/^nvlist_prtctl_setfmt(nvlist_prtctl_t pctl, enum nvlist_prtctl_fmt which,$/;"	f
+nvlist_prtctl_setindent	libnvpair.c	/^nvlist_prtctl_setindent(nvlist_prtctl_t pctl, enum nvlist_indent_mode mode,$/;"	f
+nvlist_prtctl_t	libnvpair.h	/^typedef struct nvlist_prtctl *nvlist_prtctl_t;	\/* opaque *\/$/;"	t	typeref:struct:nvlist_prtctl
+nvlist_remove	nvpair.c	/^nvlist_remove(nvlist_t *nvl, const char *name, data_type_t type)$/;"	f
+nvlist_remove_all	nvpair.c	/^nvlist_remove_all(nvlist_t *nvl, const char *name)$/;"	f
+nvlist_remove_nvpair	nvpair.c	/^nvlist_remove_nvpair(nvlist_t *nvl, nvpair_t *nvp)$/;"	f
+nvlist_size	nvpair.c	/^nvlist_size(nvlist_t *nvl, size_t *size, int encoding)$/;"	f
+nvlist_t	nvpair.h	/^} nvlist_t;$/;"	t	typeref:struct:nvlist
+nvlist_unpack	nvpair.c	/^nvlist_unpack(char *buf, size_t buflen, nvlist_t **nvlp, int kmflag)$/;"	f
+nvlist_xalloc	nvpair.c	/^nvlist_xalloc(nvlist_t **nvlp, uint_t nvflag, nv_alloc_t *nva)$/;"	f
+nvlist_xdup	nvpair.c	/^nvlist_xdup(nvlist_t *nvl, nvlist_t **nvlp, nv_alloc_t *nva)$/;"	f
+nvlist_xpack	nvpair.c	/^nvlist_xpack(nvlist_t *nvl, char **bufp, size_t *buflen, int encoding,$/;"	f
+nvlist_xunpack	nvpair.c	/^nvlist_xunpack(char *buf, size_t buflen, nvlist_t **nvlp, nv_alloc_t *nva)$/;"	f
+nvp_buf_alloc	nvpair.c	/^nvp_buf_alloc(nvlist_t *nvl, size_t len)$/;"	f	file:
+nvp_buf_free	nvpair.c	/^nvp_buf_free(nvlist_t *nvl, nvpair_t *nvp)$/;"	f	file:
+nvp_buf_link	nvpair.c	/^nvp_buf_link(nvlist_t *nvl, nvpair_t *nvp)$/;"	f	file:
+nvp_buf_unlink	nvpair.c	/^nvp_buf_unlink(nvlist_t *nvl, nvpair_t *nvp)$/;"	f	file:
+nvp_curr	nvpair_impl.h	/^	i_nvp_t		*nvp_curr;	\/* current walker nvpair *\/$/;"	m	struct:__anon3
+nvp_last	nvpair_impl.h	/^	i_nvp_t		*nvp_last;	\/* last nvpair *\/$/;"	m	struct:__anon3
+nvp_list	nvpair_impl.h	/^	i_nvp_t		*nvp_list;	\/* linked list of nvpairs *\/$/;"	m	struct:__anon3
+nvp_name_sz	nvpair.h	/^	int16_t	nvp_name_sz;	\/* length of name string *\/$/;"	m	struct:nvpair
+nvp_nva	nvpair_impl.h	/^	nv_alloc_t	*nvp_nva;	\/* pluggable allocator *\/$/;"	m	struct:__anon3
+nvp_reserve	nvpair.h	/^	int16_t	nvp_reserve;	\/* not used *\/$/;"	m	struct:nvpair
+nvp_size	nvpair.h	/^	int32_t nvp_size;	\/* size of this nvpair *\/$/;"	m	struct:nvpair
+nvp_stat	nvpair_impl.h	/^	uint32_t	nvp_stat;	\/* internal state *\/$/;"	m	struct:__anon3
+nvp_type	nvpair.h	/^	data_type_t nvp_type;	\/* type of value *\/$/;"	m	struct:nvpair
+nvp_value_elem	nvpair.h	/^	int32_t	nvp_value_elem;	\/* number of elements for array types *\/$/;"	m	struct:nvpair
+nvpair	nvpair.h	/^typedef struct nvpair {$/;"	s
+nvpair_free	nvpair.c	/^nvpair_free(nvpair_t *nvp)$/;"	f	file:
+nvpair_name	nvpair.c	/^nvpair_name(nvpair_t *nvp)$/;"	f
+nvpair_native_embedded	nvpair.c	/^nvpair_native_embedded(nvstream_t *nvs, nvpair_t *nvp)$/;"	f	file:
+nvpair_native_embedded_array	nvpair.c	/^nvpair_native_embedded_array(nvstream_t *nvs, nvpair_t *nvp)$/;"	f	file:
+nvpair_native_string_array	nvpair.c	/^nvpair_native_string_array(nvstream_t *nvs, nvpair_t *nvp)$/;"	f	file:
+nvpair_t	nvpair.h	/^} nvpair_t;$/;"	t	typeref:struct:nvpair
+nvpair_type	nvpair.c	/^nvpair_type(nvpair_t *nvp)$/;"	f
+nvpair_type_is_array	nvpair.c	/^nvpair_type_is_array(nvpair_t *nvp)$/;"	f
+nvpair_value_boolean_array	nvpair.c	/^nvpair_value_boolean_array(nvpair_t *nvp, boolean_t **val, uint_t *nelem)$/;"	f
+nvpair_value_boolean_value	nvpair.c	/^nvpair_value_boolean_value(nvpair_t *nvp, boolean_t *val)$/;"	f
+nvpair_value_byte	nvpair.c	/^nvpair_value_byte(nvpair_t *nvp, uchar_t *val)$/;"	f
+nvpair_value_byte_array	nvpair.c	/^nvpair_value_byte_array(nvpair_t *nvp, uchar_t **val, uint_t *nelem)$/;"	f
+nvpair_value_common	nvpair.c	/^nvpair_value_common(nvpair_t *nvp, data_type_t type, uint_t *nelem, void *data)$/;"	f	file:
+nvpair_value_double	nvpair.c	/^nvpair_value_double(nvpair_t *nvp, double *val)$/;"	f
+nvpair_value_hrtime	nvpair.c	/^nvpair_value_hrtime(nvpair_t *nvp, hrtime_t *val)$/;"	f
+nvpair_value_int16	nvpair.c	/^nvpair_value_int16(nvpair_t *nvp, int16_t *val)$/;"	f
+nvpair_value_int16_array	nvpair.c	/^nvpair_value_int16_array(nvpair_t *nvp, int16_t **val, uint_t *nelem)$/;"	f
+nvpair_value_int32	nvpair.c	/^nvpair_value_int32(nvpair_t *nvp, int32_t *val)$/;"	f
+nvpair_value_int32_array	nvpair.c	/^nvpair_value_int32_array(nvpair_t *nvp, int32_t **val, uint_t *nelem)$/;"	f
+nvpair_value_int64	nvpair.c	/^nvpair_value_int64(nvpair_t *nvp, int64_t *val)$/;"	f
+nvpair_value_int64_array	nvpair.c	/^nvpair_value_int64_array(nvpair_t *nvp, int64_t **val, uint_t *nelem)$/;"	f
+nvpair_value_int8	nvpair.c	/^nvpair_value_int8(nvpair_t *nvp, int8_t *val)$/;"	f
+nvpair_value_int8_array	nvpair.c	/^nvpair_value_int8_array(nvpair_t *nvp, int8_t **val, uint_t *nelem)$/;"	f
+nvpair_value_match	libnvpair.c	/^nvpair_value_match(nvpair_t *nvp, int ai, char *value, char **ep)$/;"	f
+nvpair_value_match_regex	libnvpair.c	/^nvpair_value_match_regex(nvpair_t *nvp, int ai,$/;"	f
+nvpair_value_nvlist	nvpair.c	/^nvpair_value_nvlist(nvpair_t *nvp, nvlist_t **val)$/;"	f
+nvpair_value_nvlist_array	nvpair.c	/^nvpair_value_nvlist_array(nvpair_t *nvp, nvlist_t ***val, uint_t *nelem)$/;"	f
+nvpair_value_string	nvpair.c	/^nvpair_value_string(nvpair_t *nvp, char **val)$/;"	f
+nvpair_value_string_array	nvpair.c	/^nvpair_value_string_array(nvpair_t *nvp, char ***val, uint_t *nelem)$/;"	f
+nvpair_value_uint16	nvpair.c	/^nvpair_value_uint16(nvpair_t *nvp, uint16_t *val)$/;"	f
+nvpair_value_uint16_array	nvpair.c	/^nvpair_value_uint16_array(nvpair_t *nvp, uint16_t **val, uint_t *nelem)$/;"	f
+nvpair_value_uint32	nvpair.c	/^nvpair_value_uint32(nvpair_t *nvp, uint32_t *val)$/;"	f
+nvpair_value_uint32_array	nvpair.c	/^nvpair_value_uint32_array(nvpair_t *nvp, uint32_t **val, uint_t *nelem)$/;"	f
+nvpair_value_uint64	nvpair.c	/^nvpair_value_uint64(nvpair_t *nvp, uint64_t *val)$/;"	f
+nvpair_value_uint64_array	nvpair.c	/^nvpair_value_uint64_array(nvpair_t *nvp, uint64_t **val, uint_t *nelem)$/;"	f
+nvpair_value_uint8	nvpair.c	/^nvpair_value_uint8(nvpair_t *nvp, uint8_t *val)$/;"	f
+nvpair_value_uint8_array	nvpair.c	/^nvpair_value_uint8_array(nvpair_t *nvp, uint8_t **val, uint_t *nelem)$/;"	f
+nvprint_nvlist	libnvpair.c	/^nvprint_nvlist(nvlist_prtctl_t pctl, void *private,$/;"	f	file:
+nvpriv_t	nvpair_impl.h	/^} nvpriv_t;$/;"	t	typeref:struct:__anon3
+nvprt_btwnarrfmt	libnvpair.c	/^	const char *nvprt_btwnarrfmt;	\/* between array members *\/$/;"	m	struct:nvlist_prtctl	file:
+nvprt_btwnarrfmt_nl	libnvpair.c	/^	int nvprt_btwnarrfmt_nl;	\/* nvprt_eoamfmt includes newline? *\/$/;"	m	struct:nvlist_prtctl	file:
+nvprt_custops	libnvpair.c	/^	struct nvlist_printops *nvprt_custops;$/;"	m	struct:nvlist_prtctl	typeref:struct:nvlist_prtctl::nvlist_printops	file:
+nvprt_dfltops	libnvpair.c	/^	struct nvlist_printops *nvprt_dfltops;$/;"	m	struct:nvlist_prtctl	typeref:struct:nvlist_prtctl::nvlist_printops	file:
+nvprt_eomfmt	libnvpair.c	/^	const char *nvprt_eomfmt;	\/* after member format, e.g. "\\n" *\/$/;"	m	struct:nvlist_prtctl	file:
+nvprt_fp	libnvpair.c	/^	FILE *nvprt_fp;			\/* output destination *\/$/;"	m	struct:nvlist_prtctl	file:
+nvprt_indent	libnvpair.c	/^	int nvprt_indent;		\/* absolute indent, or tab depth *\/$/;"	m	struct:nvlist_prtctl	file:
+nvprt_indent_mode	libnvpair.c	/^	enum nvlist_indent_mode nvprt_indent_mode; \/* see above *\/$/;"	m	struct:nvlist_prtctl	typeref:enum:nvlist_prtctl::nvlist_indent_mode	file:
+nvprt_indentinc	libnvpair.c	/^	int nvprt_indentinc;		\/* indent or tab increment *\/$/;"	m	struct:nvlist_prtctl	file:
+nvprt_nmfmt	libnvpair.c	/^	const char *nvprt_nmfmt;	\/* member name format, max one %s *\/$/;"	m	struct:nvlist_prtctl	file:
+nvs_decode_pairs	nvpair.c	/^nvs_decode_pairs(nvstream_t *nvs, nvlist_t *nvl)$/;"	f	file:
+nvs_embedded	nvpair.c	/^nvs_embedded(nvstream_t *nvs, nvlist_t *embedded)$/;"	f	file:
+nvs_embedded_nvl_array	nvpair.c	/^nvs_embedded_nvl_array(nvstream_t *nvs, nvpair_t *nvp, size_t *size)$/;"	f	file:
+nvs_encode_pairs	nvpair.c	/^nvs_encode_pairs(nvstream_t *nvs, nvlist_t *nvl)$/;"	f	file:
+nvs_getsize_pairs	nvpair.c	/^nvs_getsize_pairs(nvstream_t *nvs, nvlist_t *nvl, size_t *buflen)$/;"	f	file:
+nvs_header_t	nvpair.c	/^} nvs_header_t;$/;"	t	typeref:struct:__anon5	file:
+nvs_native	nvpair.c	/^nvs_native(nvstream_t *nvs, nvlist_t *nvl, char *buf, size_t *buflen)$/;"	f	file:
+nvs_native_create	nvpair.c	/^nvs_native_create(nvstream_t *nvs, nvs_native_t *native, char *buf,$/;"	f	file:
+nvs_native_destroy	nvpair.c	/^nvs_native_destroy(nvstream_t *nvs)$/;"	f	file:
+nvs_native_nvl_fini	nvpair.c	/^nvs_native_nvl_fini(nvstream_t *nvs)$/;"	f	file:
+nvs_native_nvlist	nvpair.c	/^nvs_native_nvlist(nvstream_t *nvs, nvlist_t *nvl, size_t *size)$/;"	f	file:
+nvs_native_nvp_op	nvpair.c	/^nvs_native_nvp_op(nvstream_t *nvs, nvpair_t *nvp)$/;"	f	file:
+nvs_native_nvp_size	nvpair.c	/^nvs_native_nvp_size(nvstream_t *nvs, nvpair_t *nvp, size_t *size)$/;"	f	file:
+nvs_native_nvpair	nvpair.c	/^nvs_native_nvpair(nvstream_t *nvs, nvpair_t *nvp, size_t *size)$/;"	f	file:
+nvs_native_ops	nvpair.c	/^static const nvs_ops_t nvs_native_ops = {$/;"	v	file:
+nvs_native_t	nvpair.c	/^} nvs_native_t;$/;"	t	typeref:struct:__anon6	file:
+nvs_nvl_fini	nvpair.c	/^	int (*nvs_nvl_fini)(nvstream_t *);$/;"	m	struct:nvs_ops	file:
+nvs_nvlist	nvpair.c	/^	int (*nvs_nvlist)(nvstream_t *, nvlist_t *, size_t *);$/;"	m	struct:nvs_ops	file:
+nvs_nvp_op	nvpair.c	/^	int (*nvs_nvp_op)(nvstream_t *, nvpair_t *);$/;"	m	struct:nvs_ops	file:
+nvs_nvp_size	nvpair.c	/^	int (*nvs_nvp_size)(nvstream_t *, nvpair_t *, size_t *);$/;"	m	struct:nvs_ops	file:
+nvs_nvpair	nvpair.c	/^	int (*nvs_nvpair)(nvstream_t *, nvpair_t *, size_t *);$/;"	m	struct:nvs_ops	file:
+nvs_op	nvpair.c	/^	int		nvs_op;$/;"	m	struct:__anon4	file:
+nvs_operation	nvpair.c	/^nvs_operation(nvstream_t *nvs, nvlist_t *nvl, size_t *buflen)$/;"	f	file:
+nvs_ops	nvpair.c	/^	const nvs_ops_t	*nvs_ops;$/;"	m	struct:__anon4	file:
+nvs_ops	nvpair.c	/^struct nvs_ops {$/;"	s	file:
+nvs_ops_t	nvpair.c	/^typedef struct nvs_ops nvs_ops_t;$/;"	t	typeref:struct:nvs_ops	file:
+nvs_priv	nvpair.c	/^	nvpriv_t	*nvs_priv;$/;"	m	struct:__anon4	file:
+nvs_private	nvpair.c	/^	void		*nvs_private;$/;"	m	struct:__anon4	file:
+nvstream_t	nvpair.c	/^} nvstream_t;$/;"	t	typeref:struct:__anon4	file:
+offsetof	nvpair.c	51;"	d	file:
+prtctl_defaults	libnvpair.c	/^prtctl_defaults(FILE *fp, struct nvlist_prtctl *pctl,$/;"	f	file:
+skip_whitespace	nvpair.c	53;"	d	file:
+system_ops_def	nvpair_alloc_system.c	/^const nv_alloc_ops_t system_ops_def = {$/;"	v
+u_longlong_t	nvpair.h	/^typedef unsigned long long	u_longlong_t;$/;"	t
+uchar_t	nvpair.h	/^typedef unsigned char	uchar_t;$/;"	t
+uint_t	nvpair.h	/^typedef unsigned int	uint_t;$/;"	t
+ulong_t	nvpair.h	/^typedef unsigned long	ulong_t;$/;"	t
